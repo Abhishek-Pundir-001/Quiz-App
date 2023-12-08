@@ -1,0 +1,19 @@
+About-
+Created a Quiz app.
+
+Tech stack used:
+1.HTML
+2.Tailwind css
+3.Javascript
+
+How to use?
+The app having very easy and user friendly interface.
+once you open a app you have a queston on your screen with some options.-
+step-1 select your answer or skip the question in case you don't want to answer.
+step-2 click on the next button.
+
+follow the above two steps,until you reach the last question.Once you reach the last question of the quiz the next button turned into a submit button.
+
+step-3 click on the submit button to check your score.
+
+The Quiz end with your score and a greeting message.
